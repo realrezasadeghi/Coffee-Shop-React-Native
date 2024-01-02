@@ -1,0 +1,7 @@
+node_modules
+android
+ios
+.vscode
+.idea
+.bundle
+__tests__
